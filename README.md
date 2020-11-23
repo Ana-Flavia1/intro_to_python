@@ -14,3 +14,5 @@ Para acessar o conteúdo da disciplina, por favor, clique em um dos links abaixo
 Felipe Augusto Pereira de Figueiredo
 
 felipe.figueiredo@inatel.br
+
+[! [Binder] (https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/Ana-Flavia1/intro_to_python/blob/master/labs/exercicios_de_revisao_para_p1.ipynb/lala? arquivopath = labs% 2Fexercicios_de_revisao_para_p1.ipynb)
